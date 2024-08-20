@@ -7,4 +7,6 @@ Frontend Developer | Software Engineer | Tech Enthusiast
 🔧 Skills: React, TypeScript, JavaScript, HTML5, CSS3, PHP, Git, Agile/Scrum, Software Development
 
 🌱 Passionate about continuous learning and applying cutting-edge technologies to deliver innovative software solutions. I’m committed to enhancing my expertise and contributing to projects that drive meaningful impact.
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarivanespinoza&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
