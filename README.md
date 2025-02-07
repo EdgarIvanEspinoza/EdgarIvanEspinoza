@@ -4,7 +4,7 @@ Frontend Developer | Software Engineer | Tech Enthusiast
 
 🚀 A lo largo de mi carrera, he liderado y colaborado en proyectos clave desde el concepto hasta el despliegue, asegurando código robusto y mantenible. Tengo experiencia en interfaces responsivas, optimización de rendimiento y en la integración perfecta de APIs.
 
-🔧 Tech Stack: React, TypeScript, JavaScript, HTML5, CSS3, PHP, Git, Agile/Scrum, Software Architecture
+🔧 Tech Stack: React, TypeScript, JavaScript, HTML5, CSS3, Python, Git, Agile/Scrum, Software Architecture
 
 🌱 Apasionado por el aprendizaje constante y la aplicación de tecnologías de vanguardia para ofrecer soluciones innovadoras. Estoy comprometido en mejorar mis habilidades y contribuir a proyectos con impacto real.
 
